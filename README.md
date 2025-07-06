@@ -1,7 +1,7 @@
 # Análises de Casos Notórios em Cibersegurança - Processo Seletivo LSEC 2025
 
 ## Sobre este Repositório
-Este repositório agrega o trabalho de pesquisa desenvolvido durante a segunda fase do Processo Seletivo 2025 da LSEC (Liga Acadêmica de Segurança Cibernética). Aqui você encontrará um artigo de estudo com o tema [Inserir o título do seu White Paper], focado na vulnerabilidade [Inserir a vulnerabilidade escolhida].
+Este repositório agrega o trabalho de pesquisa desenvolvido durante a segunda fase do Processo Seletivo 2025 da LSEC (Liga Acadêmica de Segurança Cibernética). Aqui você encontrará um artigo de estudo com o tema APT Actuations e Cyber Espionage, focado na vulnerabilidade Equation Group.
 
 O principal objetivo desta fase foi desafiar os candidatos a aprofundar seus conhecimentos em eventos e vulnerabilidades que marcaram a história da segurança da informação. Cada trabalho representa o esforço de pesquisa, análise e documentação de um grupo de aspirantes, que tiveram a tarefa de explicar um tema complexo de forma clara, objetiva e fundamentada. 
 
